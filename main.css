@@ -1,0 +1,30 @@
+form {
+    margin:50px;
+    width: 70%;
+    border:1px solid #000;
+}
+
+[contenteditable=true] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0 20px 0;
+}
+
+.head{
+    border:1px solid #000;
+    width:100%;
+    background: #fff;
+}
+
+.main {
+    border:1px solid #000;
+    height:400px;
+}
+
+.red {
+    background-color: #cc0000;
+}
+
+.green {
+    background-color: #00ff00;
+}
